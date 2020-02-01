@@ -1,0 +1,14 @@
+ID	Title	avoid	def	ddg	mov
+.start
+grass	Grass	0	0	0	1
+plain	Plain	0	0	0	1
+floor	Floor	0	0	0	1
+road	Road	0	0	0	1
+desert	Desert	5	0	0	2
+forest	Forest	20	1	0	2
+pillar	Pillar	20	1	0	2
+thicket	Thicket	0	0	0	1000
+mountain	Mountain	30	2	0	3
+peak	Peak	40	3	0	1000
+ocean	Ocean	0	0	0	1000
+wall	Wall	0	0	0	1000

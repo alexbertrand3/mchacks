@@ -1,0 +1,3 @@
+id	name	hp	str	mag	skl	spd	lck	def	res	mov
+.start
+test	Test	30	10	10	10	10	10	10	10	5

@@ -1,0 +1,43 @@
+.start
+20
+20
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2	forest1	forest2	grass1	grass2
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
+3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	3,0	4,0	0,0	1,0	
